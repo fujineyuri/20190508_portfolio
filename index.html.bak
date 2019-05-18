@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Resume - Fujine Yuri's portfolio</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.css" rel="stylesheet">
+  <link href="css/timeline.css" rel="stylesheet">
+  <link href="css/tagCloud.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">藤音 裕理</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#profile">Profile</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">藤音
+          <span class="text-primary">裕理</span>
+        </h1>
+        <div class="subheading mb-5">フジネ ユリ　Fujine yuri
+        </div>
+        <p class="lead mb-5">Web系技術を修行中の、SIer所属システムエンジニアです。</p>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xl-10 col-12">
+              <div class="timeline timeline-line-solid">
+
+                <span class="timeline-label">
+                  <span class="label bg-primary">...</span>
+                </span>
+
+                <span class="timeline-label">
+                  <span class="label">2005</span>
+                </span>
+                <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="widget-header d-flex align-items-center">
+                        <span class="user-image">&#x3299;</span>
+                        <div class="d-flex flex-column mr-auto">
+                          <div class="title">
+                            <h4><a href="https://togetter.com/li/371875" target="_blank">「いわゆる2000年代 の個人サイト」</a>を運営</h4>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="widget-body">
+                        <p>
+                          高校～大学時代まで、趣味のWebサイトを運営。HTML4で一生懸命IE対応してました。
+                        </p>
+                      </div>
+                      <div class="widget-footer d-flex align-items-center">
+                        <ul class="cp_tag01">
+                          <li><a>private</a></li>
+                          <li><a>front-end</a></li>
+                          <li><a>HTML</a></li>
+                          <li><a>CSS</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="time-right">2005...2012</div>
+                  </div>
+                </div>
+
+                <span class="timeline-label">
+                  <span class="label">2013</span>
+                </span>
+
+                <!-- <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="alert alert-info" role="alert">
+                        大学卒業
+                      </div>
+                    </div>
+                    <div class="time-right">2013/03</div>
+                  </div>
+                </div> -->
+
+                <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="widget-header d-flex align-items-center">
+                        <span class="user-image">&#x1f469;&#x1f3fd;&#x200d;&#x1f4bb;</span>
+                        <div class="d-flex flex-column mr-auto">
+                          <div class="title">
+                            <h4>SIer企業へ就職</h4>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="widget-body">
+                        <p>
+                          システムエンジニアとして就職。基幹系システム開発・運用保守・サポートを担当しました。
+                        </p>
+                      </div>
+                      <div class="widget-footer d-flex align-items-center">
+                        <ul class="cp_tag01">
+                          <li><a>official</a></li>
+                          <li><a>back-end</a></li>
+                          <li><a>COBOL</a></li>
+                          <li><a>SQL-Server</a></li>
+                          <li><a>自社フレームワーク</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="time-right">2013/04</div>
+                  </div>
+                </div>
+
+                <span class="timeline-label">
+                  <span class="label">2018</span>
+                </span>
+
+                <!-- <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="alert alert-info" role="alert">
+                        転職活動開始
+                      </div>
+                    </div>
+                    <div class="time-right">2018/06</div>
+                  </div>
+                </div>
+
+                <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="alert alert-info" role="alert">
+                        退職
+                      </div>
+                    </div>
+                    <div class="time-right">2018/10</div>
+                  </div>
+                </div> -->
+
+                <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="widget-header d-flex align-items-center">
+                        <span class="user-image">&#x1f64b;&#x1f3fd;</span>
+                        <div class="d-flex flex-column mr-auto">
+                          <div class="title">
+                            <h4>2社目のSIer企業へ転職</h4>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="widget-body">
+                        <p>
+                          システムエンジニアとして転職。RPA開発をしてます。
+                        </p>
+                      </div>
+                      <div class="widget-footer d-flex align-items-center">
+                        <ul class="cp_tag01">
+                          <li><a>official</a></li>
+                          <li><a>back-end</a></li>
+                          <li><a>RPA</a></li>
+                          <li><a>bizrobo</a></li>
+                          <li><a>blueprism</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="time-right">2018/11</div>
+                  </div>
+                </div>
+
+                <span class="timeline-label">
+                  <span class="label">2019</span>
+                </span>
+
+                <div class="timeline-item">
+                  <div class="timeline-point timeline-point"></div>
+                  <div class="timeline-event">
+                    <div class="widget has-shadow">
+                      <div class="widget-header d-flex align-items-center">
+                        <span class="user-image">&#x1f4cb;</span>
+                        <div class="d-flex flex-column mr-auto">
+                          <div class="title">
+                            <h4>ポートフォリオサイト作成</h4>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="widget-body">
+                        <p>
+                          Web系技術も鍛えたいと手を付け始めましたが、HTML5とは？　CSS3とは？？　ていうか今はコンポーネントとフレームワークでこんなに楽に作れるのね！？　とタイムスリップ状態です。
+                        </p>
+                      </div>
+                      <div class="widget-footer d-flex align-items-center">
+                        <ul class="cp_tag01">
+                          <li><a>private</a></li>
+                          <li><a>front-end</a></li>
+                          <li><a>HTML</a></li>
+                          <li><a>CSS</a></li>
+                          <li><a>bootstrap</a></li>
+                          <li><a>Chart.js</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="time-right">2019/05</div>
+                  </div>
+                </div>
+
+                <span class="timeline-label">
+                  <span class="label bg-primary">Now</span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="mb-5">Skills</h2>
+
+        <canvas id="myChart"></canvas>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              本業で要件定義～開発、その後の運用保守サポートまで一通り経験</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              しかし、いかんせん小規模プロジェクトかつレガシー環境だったので胸を張れたものかどうか？ &#x1f914;</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              自身をつけるためWeb系も鍛えようとしたら幅が広すぎてどこから手を付けたものか &#x1f602;</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              とりあえず難しいことを考えず、遊びながら修行中です &#x1F9B2;</li>
+          </ul>
+        </div>
+
+        <div class="subheading mb-3">Programming Languages & Tools</div>
+        <ul class="list-inline dev-icons">
+          <li class="list-inline-item">
+            <i class="fab fa-html5"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-css3-alt"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-js-square"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-windows"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-atom"></i>
+          </li>
+        </ul>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="profile">
+      <div class="w-100">
+        <h2 class="mb-5">profile</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">University of Colorado Boulder</h3>
+            <div class="subheading mb-3">Bachelor of Science</div>
+            <div>Computer Science - Web Development Track</div>
+            <p>GPA: 3.23</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2006 - May 2010</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">James Buchanan High School</h3>
+            <div class="subheading mb-3">Technology Magnet Program</div>
+            <p>GPA: 3.56</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2002 - May 2006</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="contact">
+      <div class="w-100">
+        <h2 class="mb-5">Contact</h2>
+
+        <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
+
+        <div class="social-icons">
+          <!-- <a target="_blank" href="#">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a target="_blank" href="#">
+            <i class="fab fa-linkedin-in"></i>
+          </a> -->
+          <a target="_blank" href="https://about.me/fujineyuri">
+            <i class="fas fa-address-card"></i>
+          </a>
+          <a target="_blank" href="https://github.com/fujineyuri">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" href="https://qiita.com/fujineyuri" class="iconDescription" data-toggle="popover" data-placement="top" data-content="Qiita">
+            <i class="fas fa-blog"></i>
+          </a>
+          <a target="_blank" href="https://fujineyuri.hatenablog.com/" class="iconDescription" data-toggle="popover" data-placement="top" data-content="Hatena Blog">
+            <i class="fas fa-pen-nib"></i>
+          </a>
+          <a target="_blank" href="https://twitter.com/Fujineyuri">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" href="https://forms.gle/p7oK2XBeYxE8NZ7x8" class="iconDescription" data-toggle="popover" data-placement="top" data-content="Google Form">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </div>
+
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.js"></script>
+  <script src="js/mychart.js"></script>
+
+</body>
+
+</html>
